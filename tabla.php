@@ -3,6 +3,7 @@
         <title>Prueba funcional de PHP</title>
     </head>
     <body>
+        <p>Jose</p>
         <table>
             <caption>Esto es un título hecho por Raúl García en el repositorio de Ian</caption>
             <tr>

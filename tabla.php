@@ -2,6 +2,11 @@
     <head>
         <title>Prueba funcional de PHP</title>
     </head>
+    <style>
+        table, th, td {
+                        border:1px solid black;
+                    }
+    </style>
     <body>
         <p>Jose</p>
         <table>

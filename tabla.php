@@ -4,6 +4,7 @@
     </head>
     <body>
         <table>
+            <caption>Esto es un título hecho por Raúl García en el repositorio de Ian</caption>
             <tr>
                 <?php
                 $fecha = date('m-d-Y');
